@@ -1,0 +1,21 @@
+I: Percent of Admissions taken in various campuses during resp. Cut-Off Lists
+
+1) Remove_Duplicate : For removing duplicate entries
+2) Total_Colleges : For finding the list of colleges
+3) Get_List : No. of students per college per admission list and plots graph
+
+II : Average Marks of Sports and ECA
+
+1) Sports : Calculations
+
+III : No Of Applicants per list
+
+1) Applicants : No. of applicants
+
+IV : Average No. of seats applied for by a student
+
+1) Seats : Calculations
+
+V : Top 10 Courses
+
+1) Courses : Calculations

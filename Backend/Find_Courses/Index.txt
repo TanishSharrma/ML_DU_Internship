@@ -1,0 +1,5 @@
+1) Create_Table : Creates table in DB with each college name along with its categories
+
+
+
+List_Courses : List of all available courses.
